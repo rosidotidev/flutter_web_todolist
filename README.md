@@ -1,7 +1,7 @@
 # flutter web todolist
 Flutter 2.0 web todolist
 
-This web project needs backend APIs that can be found at this link [nimbella todolist api](https://github.com/rosidotidev/nimbella_todolist_api) <br/>
+This web project needs backend APIs that can be found at [nimbella todolist api](https://github.com/rosidotidev/nimbella_todolist_api) <br/>
 
 #### Supported features:
 - Access to a personal todolit
@@ -16,8 +16,7 @@ This web project needs backend APIs that can be found at this link [nimbella tod
 
 #### Screenshots:
 
-<img src="images/todolist_home.png" width="400" height="600"> <img src="images/todolist_crud.png" width="400" height="600"><br>
-
+<img src="images/todolist_home.png" width="400" height="400"> <img src="images/todolist_crud.png" width="400" height="400"><br>
 
 #### Credits:
 
