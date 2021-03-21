@@ -1,2 +1,2 @@
-# flutter_web_todolist
+# flutter web todolist
 Flutter 2.0 web todolist
